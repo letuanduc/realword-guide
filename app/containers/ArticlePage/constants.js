@@ -1,0 +1,12 @@
+export const ARTICLE_LOADING = 'realworld/ArticlePage/ARTICLE_LOADING';
+export const ARTICLE_LOADED = 'realworld/ArticlePage/ARTICLE_LOADED';
+export const COMMENTS_LOADED = 'realworld/ArticlePage/COMMENTS_LOADED';
+export const GET_SLUG = 'realworld/ArticlePage/GET_SLUG';
+export const RESET_INFO = 'realworld/ArticlePage/RESET_INFO';
+export const TOGGLE_FOLLOW = 'realworld/ArticlePage/TOGGLE_FOLLOW';
+export const SET_FOLLOW = 'realworld/ArticlePage/SET_FOLLOW';
+export const TOGGLE_FAVORITE = 'realworld/ArticlePage/TOGGLE_FAVORITE';
+export const SET_FAVORITED = 'realworld/ArticlePage/SET_FAVORITED';
+export const CHANGE_COMMENT = 'realworld/ArticlePage/CHANGE_COMMENT';
+export const POST_COMMENT = 'realworld/ArticlePage/POST_COMMENT';
+export const GET_COMMENT = 'realworld/ArticlePage/GET_COMMENT';

@@ -1,0 +1,12 @@
+export const FILTER_ARTICLES = 'realworld/HomePage/FILTER_ARTICLES';
+export const LOAD_ARTICLES = 'realworld/HomePage/LOAD_ARTICLES';
+export const LOAD_ARTICLES_SUCCESS = 'realworld/HomePage/LOAD_ARTICLES_SUCCESS';
+export const LOAD_ARTICLES_ERROR = 'realworld/HomePage/LOAD_ARTICLES_ERROR';
+export const CHANGE_ARTICLES_TAG = 'realworld/HomePage/CHANGE_ARTICLES_TAG';
+export const CHANGE_ARTICLES_OFFSET = 'realworld/HomePage/CHANGE_ARTICLES_OFFSET';
+export const LOAD_TAGS = 'realworld/HomePage/LOAD_TAGS';
+export const LOAD_TAGS_SUCCESS = 'realworld/HomePage/LOAD_TAGS_SUCCESS';
+export const LOAD_TAGS_ERROR = 'realworld/HomePage/LOAD_TAGS_ERROR';
+export const REMOVE_CURRENT_TAG = 'realworld/HomePage/REMOVE_CURRENT_TAG';
+export const RESET_OFFSET = 'realworld/HomePage/RESET_OFFSET';
+export const TOGGLE_FAVORITE = 'realworld/HomePage/TOGGLE_FAVORITE';
